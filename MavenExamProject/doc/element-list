@@ -1,0 +1,5 @@
+com.myproject.MavenExamProject
+com.myproject.MavenExamProject.controller
+com.myproject.MavenExamProject.model
+com.myproject.MavenExamProject.view
+DBConnector

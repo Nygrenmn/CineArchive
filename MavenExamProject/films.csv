@@ -1,0 +1,5 @@
+film_id,title,description,release_year,language_id,original_language_id,rental_duration,rental_rate,length,replacement_cost,rating,special_features,last_update,category_id
+1001,DUNE,Kinda like starwars,2021,1,NULL,3,4.99,155,19.99,PG-13,NULL,2006-02-15 05:03:42,5
+1002,TITANIC,Sinking ship,1997,1,NULL,3,4.99,155,19.99,PG-13,NULL,2006-02-15 05:03:42,6
+1003,INCEPTION,Confusing movie,2010,1,NULL,3,4.99,155,19.99,PG-13,NULL,2006-02-15 05:03:42,13
+1004,SOUND OF MUSIC,Old musical,1966,1,NULL,3,4.99,155,19.99,PG-13,NULL,2006-02-15 05:03:42,7

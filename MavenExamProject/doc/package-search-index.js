@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.myproject.MavenExamProject"},{"l":"com.myproject.MavenExamProject.controller"},{"l":"com.myproject.MavenExamProject.model"},{"l":"com.myproject.MavenExamProject.view"},{"l":"DBConnector"}];updateSearchResults();
