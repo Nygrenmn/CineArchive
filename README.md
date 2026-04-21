@@ -3,7 +3,7 @@
 A Java desktop application for browsing, managing, and reviewing films, inspired by Letterboxd. Built as a university group project for single-user local use.
 
 ## Tech
-HTML · CSS · Java · Swing · JavaScript · MySQL (Sakila) · JDBC · Maven
+Java · Swing · MySQL (Sakila) · JDBC · Maven
 
 ## Features
 - Search and filter films by title, genre, and age rating
