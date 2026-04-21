@@ -1,6 +1,8 @@
 # CineArchive
 
-A Java desktop application for browsing, managing, and reviewing films, inspired by Letterboxd. Built as a university group project for single-user local use.
+A Java desktop application for managing and reviewing a personal film collection.  
+Inspired by Letterboxd, the application allows users to browse, organize, and review films locally.
+> Focus on object-oriented design, database integration, and user interaction.
 
 ## Tech
 Java · Swing · MySQL (Sakila) · JDBC · Maven
@@ -10,7 +12,11 @@ Java · Swing · MySQL (Sakila) · JDBC · Maven
 - Add films to a personal watchlist and export it as a CSV file
 - Import and clear your watchlist
 - Write and view film reviews
-- Admin menu for testing DB connection, running SQL queries, uploading/downloading CSV files, and adding films to the database
+- Admin panel for:
+  - Testing database connection  
+  - Running SQL queries  
+  - Uploading/downloading CSV files  
+  - Adding films to the database  
 
 ## My Contributions
 I was responsible for `DatabaseConnection.java`, `Film.java`, and `FilmDAO.java`, and co-developed `FilmHandler.java` with a team member.
