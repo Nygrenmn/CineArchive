@@ -20,8 +20,6 @@ Java · Swing · MySQL (Sakila) · JDBC · Maven
   - Uploading/downloading CSV files  
   - Adding films to the database  
 
----
-
 ## Screenshots
 
 <details>
@@ -71,9 +69,6 @@ Java · Swing · MySQL (Sakila) · JDBC · Maven
     <img width="945" height="200" alt="image" src="https://github.com/user-attachments/assets/99826fef-e61c-4c6b-ab1c-86e91f7f4c94" />
   </p>
 </details>
-
-
----
 
 ## My Contributions
 I was responsible for `DatabaseConnection.java`, `Film.java`, and `FilmDAO.java`, and co-developed `FilmHandler.java` with a team member.
